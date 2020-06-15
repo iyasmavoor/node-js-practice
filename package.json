@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "crash",
+  "main": "node.js",
+  "scripts": {
+    "start": "node node",
+    "dev":"nodemon node"
+
+  },
+  "author": "iyas",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
